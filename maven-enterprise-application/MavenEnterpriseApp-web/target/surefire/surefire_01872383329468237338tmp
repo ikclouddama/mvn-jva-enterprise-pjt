@@ -1,0 +1,5 @@
+#surefire_0
+#Sat Dec 03 14:49:37 UTC 2022
+basedir=/home/ec2-user/java-projects/maven-enterprise-application/MavenEnterpriseApp-web
+user.dir=/home/ec2-user/java-projects/maven-enterprise-application/MavenEnterpriseApp-web
+localRepository=/home/ec2-user/.mlr
